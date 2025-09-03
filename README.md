@@ -4,8 +4,7 @@ This is a simple **Python command-line tool** that generates strong, random pass
 It uses Python's built-in [`secrets`](https://docs.python.org/3/library/secrets.html) module to ensure **cryptographically secure randomness**, making the generated passwords safe for real-world use.
 
 
-
-## 🚀 Features
+## 🚀 Featuresss
 - Generate one or multiple passwords at a time.  
 - Enforce **minimum length of 8 characters** (recommended security standard).  
 - Option to include/exclude:

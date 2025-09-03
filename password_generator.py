@@ -85,6 +85,7 @@ def generate_password(password_length, password_count, wants_uppercase, wants_lo
         print(f'Password {i+1}',my_password[i])
     return my_password
 
+#Call Function
 generate_password(password_length, password_count, wants_uppercase, wants_lowercase, wants_symbols, wants_numbers)
 
 
